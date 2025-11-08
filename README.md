@@ -48,7 +48,7 @@ Below are some screenshots of the **Career Map** app.
 
 ```markdown
 ###  Login Page
-![Login Page](CareerMap\assets\images\login.jpg)
+![Login Page](CareerMap/assets/images/login.jpg)
     
 
 ###  SignUp Page
