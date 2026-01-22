@@ -46,12 +46,23 @@ It provides detailed company information, aptitude and interview preparation, GD
 
 Below are some screenshots of the **Career Map** app.  
 
-```markdown
+## Screenshots
+
+| Feature       | Preview                    |
+|---------------|----------------------------|
+| Home Screen   | ![Home](assets/images/experts.jpg) |
+
+
+
+
+
+
+<!-- ```markdown -->
 ###  Login Page
 ![Login Page](https://github.com/KrishCoder2797/Career-Map/blob/main/CareerMap/assets/images/login.jpg?raw=true)
     
 
-<!-- ###  SignUp Page
+###  SignUp Page
 ![SignUp Page](assets/images/signup.jpg)
 
 ###  Home Page
@@ -95,4 +106,4 @@ Below are some screenshots of the **Career Map** app.
 ###  Chat with Expert
 ![Chat with Expert](assets/images/experts.jpg)
 
-![Chat with Expert](assets/images/experts_chat.jpg) -->
+![Chat with Expert](assets/images/experts_chat.jpg)
