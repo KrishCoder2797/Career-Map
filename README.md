@@ -50,60 +50,21 @@ Below are some screenshots of the **Career Map** app.
 
 | Feature       | Preview                    |
 |---------------|----------------------------|
-| Home Screen   | ![Home](CareerMap/assets/images/experts.jpg) |
+| Login Screen   | ![Home](CareerMap/assets/images/login.jpg) |
+| SignUp Screen   | ![Home](CareerMap/assets/images/signup.jpg) |
+| Home Screen   | ![Home](CareerMap/assets/images/companylist.jpg) |
+| Company Description Screen   | ![Home](CareerMap/assets/images/companydescription.jpg) |
+| Study Section Screen   | ![Home](CareerMap/assets/images/study_section.jpg) |
+| Aptitude  Screen   | ![Home](CareerMap/assets/images/company_specific.jpg) |
+| Aptitude-Lecture Screen   | ![Home](CareerMap/assets/images/que_lec.jpg) |
+| Aptitude-Question Screen   | ![Home](CareerMap/assets/images/que_appti.jpg) |
+| Aptitude Quiz Screen   | ![Home](CareerMap/assets/images/que_quiz.jpg) |
+| Coding Screen   | ![Home](CareerMap/assets/images/coding_que.jpg) |
+| Compiler Screen   | ![Home](CareerMap/assets/images/jdoodle_compiler.jpg) |
+| Coding Solution Screen   | ![Home](CareerMap/assets/images/coding_solution.jpg) |
+| Interview Screen   | ![Home](CareerMap/assets/images/interview_section.jpg) |
+| Interview Preparation Screen   | ![Home](CareerMap/assets/images/interview_que.jpg) |
+| Chat with Expert Screen   | ![Home](CareerMap/assets/images/experts.jpg) |
+| Chat with Expert Screen   | ![Home](CareerMap/assets/images/experts_chat.jpg) |
 
 
-
-
-
-
-<!-- ```markdown -->
-###  Login Page
-![Login Page](https://github.com/KrishCoder2797/Career-Map/blob/main/CareerMap/assets/images/login.jpg?raw=true)
-    
-
-###  SignUp Page
-![SignUp Page](assets/images/signup.jpg)
-
-###  Home Page
-![Home Page](assets/images/home_page.jpg)
-
-###  Company Description Page
-![Company Description Page](assets/images/companydescription.jpg)
-
-
-###  Study Section Page
-![Study Section Page](assets/images/study_section.jpg)
-
-###  Aptitude Section
-![Aptitude Section](assets/images/company_specific.jpg)
-
-###  Aptitude-Lecture Section
-![Aptitude-Lecture Section](assets/images/que_lec.jpg)
-
-###  Aptitude-Question Section
-![Aptitude-Question Section](assets/images/que_appti.jpg)
-
-###  Aptitude-Quiz Section
-![Aptitude-Quiz Section](assets/images/que_quiz.jpg)
-
-###  Coding Section
-![Coding Section](assets/images/coding_que.jpg)
-
-###  Compiler Section
-![Compiler Section](assets/images/jdoodle_compiler.jpg)
-
-###  Coding Solution Section
-![Coding Solution Section](https://github.com/KrishCoder2797/Career-Map/blob/main/CareerMap/assets/images/coding_solution.jpg?raw=true)
-                            
-
-###  Interview Section
-![Interview Page](assets/images/interview_section.jpg)
-
-###  Interview Preparation
-![Interview Page](assets/images/interview_que.jpg)
-
-###  Chat with Expert
-![Chat with Expert](assets/images/experts.jpg)
-
-![Chat with Expert](assets/images/experts_chat.jpg)
