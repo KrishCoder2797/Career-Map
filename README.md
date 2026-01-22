@@ -50,7 +50,7 @@ Below are some screenshots of the **Career Map** app.
 
 | Feature       | Preview                    |
 |---------------|----------------------------|
-| Home Screen   | ![Home](assets/images/experts.jpg) |
+| Home Screen   | ![Home](CareerMap/assets/images/experts.jpg) |
 
 
 
